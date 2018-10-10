@@ -41,4 +41,9 @@
         <default>false</default>
         <label>valor</label>
     </standardValue>
+    <standardValue>
+        <fullName>valor2</fullName>
+        <default>false</default>
+        <label>valor2</label>
+    </standardValue>
 </StandardValueSet>
