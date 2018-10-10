@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1539170610482,
-            "changeTime": 1539170610482,
-            "contentHash": "4652553c858d457d07af53e888c167ce56f30920"
+            "modifiedTime": 1539173156636,
+            "changeTime": 1539173156636,
+            "contentHash": "4123fa47428bd5741487afb0ad09ddfe9e539115"
         }
     ],
     [
@@ -296,27 +296,66 @@
     [
         "C:\\geolocation\\force-app\\main\\default\\standardValueSets\\AccountType.standardValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\standardValueSets\\AccountType.standardValueSet-meta.xml",
             "isDirectory": false,
+            "size": 1551,
+            "modifiedTime": 1539172934035,
+            "changeTime": 1539172934035,
+            "contentHash": "8771d9d447a156cc1f14371a9cb064b97c0ae03c",
             "isMetadataFile": true,
-            "size": 1411,
-            "modifiedTime": 1539170610490,
-            "changeTime": 1539170610490,
-            "contentHash": "65ed318304f056c3580fcc79e083acf1438aeef9"
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\standardValueSets",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\standardValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1539170610490,
             "changeTime": 1539170610490,
-            "contentHash": "e89d38b8a63980d0e7a2d2d32bd0518e8b2daaa0"
+            "contentHash": "e89d38b8a63980d0e7a2d2d32bd0518e8b2daaa0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\classes\\pruebaTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\classes\\pruebaTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1539173156648,
+            "changeTime": 1539173156648,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\classes\\pruebaTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\classes\\pruebaTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 28,
+            "modifiedTime": 1539173156652,
+            "changeTime": 1539173156652,
+            "contentHash": "70bc11a8fe466fc3c4e334728bb83b98bf1d770a"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539173156652,
+            "changeTime": 1539173156652,
+            "contentHash": "f3857bd62a0c89dc9c784469dcf65458072651f6"
         }
     ]
 ]
